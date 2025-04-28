@@ -1,14 +1,17 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import Header from '../components/Header'
 import FeaturedProperties from '../components/FeaturedProperties'
 import Contact from '../components/Contact'
+import Footer from '../components/Footer'
 
-const Home = () => {
+const Home = ({properties}) => {
+
   return (
     <div>
         <Header />
-        <FeaturedProperties />
+        <FeaturedProperties properties={properties}/>
         <Contact />
+        <Footer />
     </div>
   )
 }

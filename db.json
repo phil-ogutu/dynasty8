@@ -1,0 +1,301 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Cottage on Maple Lane",
+      "type": "Duplex",
+      "location": "Karen",
+      "price": 8500000,
+      "image": "/assets/images/cottage.jpg",
+      "description": "Luxury villa with ocean view and pool"
+    },
+    {
+      "id": "2",
+      "title": "The Urban Oasis",
+      "type": "Duplex",
+      "location": "Upper Hill",
+      "price": 16500000,
+      "image": "/assets/images/urban.jpg",
+      "description": "Luxury villa with ocean view"
+    },
+    {
+      "id": "3",
+      "title": "Palatial Retreat",
+      "type": "Apartment",
+      "location": "Gigiri",
+      "price": 6000000,
+      "image": "/assets/images/home1.jpg",
+      "description": "Charming cottage with beautiful garden and patio"
+    },
+    {
+      "id": "4",
+      "title": "The Urban Oasis",
+      "type": "Duplex",
+      "location": "Riverside",
+      "price": 17000000,
+      "image": "/assets/images/home2.jpg",
+      "description": "Stylish loft in the heart of city"
+    },
+    {
+      "id": "5",
+      "title": "Cityscape Towers",
+      "type": "Duplex",
+      "location": "Eastleigh",
+      "price": 24000000,
+      "image": "/assets/images/apartment.jpg",
+      "description": "Stylish loft in the heart of city"
+    },
+    {
+      "id": "6",
+      "title": "The Urban Oasis",
+      "type": "Apartment",
+      "location": "Hurlingham",
+      "price": 10000000,
+      "image": "/assets/images/home1.jpg",
+      "description": "Charming cottage with beautiful garden and patio"
+    },
+    {
+      "id": "7",
+      "title": "Cityscape Towers",
+      "type": "Apartment",
+      "location": "Eastleigh",
+      "price": 54000000,
+      "image": "/assets/images/home2.jpg",
+      "description": "Luxury villa with ocean view and pool"
+    },
+    {
+      "id": "8",
+      "title": "Downtown Living",
+      "type": "House",
+      "location": "Lang'ata",
+      "price": 22000000,
+      "image": "/assets/images/default.png",
+      "description": "Elegant townhouse in quiet residential area"
+    },
+    {
+      "id": "9",
+      "title": "Oceanfront Dream House",
+      "type": "Duplex",
+      "location": "Gigiri",
+      "price": 240000000,
+      "image": "/assets/images/default.png",
+      "description": "Luxury villa with ocean view and pool"
+    },
+    {
+      "id": "10",
+      "title": "The Urban Oasis",
+      "type": "Apartment",
+      "location": "South B",
+      "price": 7500000,
+      "image": "/assets/images/default.png",
+      "description": "Cozy apartment near parks and shopping"
+    },
+    {
+      "id": "11",
+      "title": "Cottage on Maple Lane",
+      "type": "House",
+      "location": "Lang'ata",
+      "price": 15500000,
+      "image": "/assets/images/default.png",
+      "description": "Cozy apartment near parks and shopping"
+    },
+    {
+      "id": "12",
+      "title": "The Urban Oasis",
+      "type": "Condo",
+      "location": "Riverside",
+      "price": 11000000,
+      "image": "/assets/images/default.png",
+      "description": "Bright and airy studio apartment with balcony."
+    },
+    {
+      "id": "13",
+      "title": "Palatial Retreat",
+      "type": "Duplex",
+      "location": "Lang'ata",
+      "price": 21000000,
+      "image": "/assets/images/default.png",
+      "description": "Spacious home with modern finishes and view"
+    },
+    {
+      "id": "14",
+      "title": "The Urban Oasis",
+      "type": "House",
+      "location": "Hurlingham",
+      "price": 9110000,
+      "image": "/assets/images/default.png",
+      "description": "Elegant townhouse in quiet residential area"
+    },
+    {
+      "id": "15",
+      "title": "The Hidden Cottage",
+      "type": "Apartment",
+      "location": "Lavington",
+      "price": 6000000,
+      "image": "/assets/images/default.png",
+      "description": "Luxury villa with ocean view and pool"
+    },
+    {
+      "id": "16",
+      "title": "The Urban Oasis",
+      "type": "Apartment",
+      "location": "Embakasi",
+      "price": 20000000,
+      "image": "/assets/images/default.png",
+      "description": "Charming cottage with beautiful garden and patio"
+    },
+    {
+      "id": "17",
+      "title": "Serenity Mansion",
+      "type": "House",
+      "location": "Riverside",
+      "price": 12000000,
+      "image": "/assets/images/default.png",
+      "description": "Luxury villa with ocean view and pool"
+    },
+    {
+      "id": "18",
+      "title": "Pinewood Retreat",
+      "type": "Duplex",
+      "location": "Kilimani",
+      "price": 51000000,
+      "image": "/assets/images/default.png",
+      "description": "Bright and airy studio apartment with balcony."
+    },
+    {
+      "id": "19",
+      "title": "Central Park Views",
+      "type": "House",
+      "location": "Parklands",
+      "price": 10700000,
+      "image": "/assets/images/default.png",
+      "description": "Cozy apartment near parks and shopping"
+    },
+    {
+      "id": "20",
+      "title": "Cottage on Maple Lane",
+      "type": "Apartment",
+      "location": "South B",
+      "price": 15000000,
+      "image": "/assets/images/default.png",
+      "description": "Luxury villa with ocean view and pool"
+    },
+    {
+      "id": "3850",
+      "title": "4 Bedroom Bungalow",
+      "type": "House",
+      "location": "Kitengela",
+      "price": 2000000,
+      "description": "4 Bedroom Bungalow",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "3e38",
+      "title": "5 Bedroom",
+      "type": "House",
+      "location": "Nairobi",
+      "price": 120000,
+      "description": "5 Bedroo",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "8fee",
+      "title": "Voluptatem eos dol",
+      "type": "Molestias ea veniam",
+      "location": "Est ipsum magni a od",
+      "price": 91,
+      "description": "Perferendis eu eu im",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "72ba",
+      "title": "Labore dolor non et ",
+      "type": "Ut consequat Unde a",
+      "location": "Irure in non commodo",
+      "price": 96,
+      "description": "Dolor aut nulla elig",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "4769",
+      "title": "Sint autem alias nos",
+      "type": "Assumenda duis adipi",
+      "location": "Reprehenderit aut te",
+      "price": 59,
+      "description": "Consectetur et ducim",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "48e5",
+      "title": "Voluptas et quo eum ",
+      "type": "Sed et animi exerci",
+      "location": "Quo est ipsum offic",
+      "price": 13,
+      "description": "Dicta laboriosam re",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "0146",
+      "title": "Voluptas et quo eum ",
+      "type": "Sed et animi exerci",
+      "location": "Quo est ipsum offic",
+      "price": 13,
+      "description": "Dicta laboriosam re",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "c10e",
+      "title": "Voluptas et quo eum ",
+      "type": "Sed et animi exerci",
+      "location": "Quo est ipsum offic",
+      "price": 13,
+      "description": "Dicta laboriosam re",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "9900",
+      "title": "Voluptas et quo eum ",
+      "type": "Sed et animi exerci",
+      "location": "Quo est ipsum offic",
+      "price": 13,
+      "description": "Dicta laboriosam re",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "b636",
+      "title": "Voluptas et quo eum ",
+      "type": "Sed et animi exerci",
+      "location": "Quo est ipsum offic",
+      "price": 13,
+      "description": "Dicta laboriosam re",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "912f",
+      "title": "Voluptas et quo eum ",
+      "type": "Sed et animi exerci",
+      "location": "Quo est ipsum offic",
+      "price": 13,
+      "description": "Dicta laboriosam re",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "e996",
+      "title": "Dolores qui incidunt",
+      "type": "Autem quod voluptate",
+      "location": "Aut qui dolor in dol",
+      "price": 93,
+      "description": "Autem voluptatibus c",
+      "image": "/assets/images/default.png"
+    },
+    {
+      "id": "718f",
+      "title": "Repudiandae sed qui ",
+      "type": "Doloribus aut omnis ",
+      "location": "Voluptatum non conse",
+      "price": 68,
+      "description": "Cupidatat quia quos ",
+      "image": "/assets/images/default.png"
+    }
+  ]
+}
